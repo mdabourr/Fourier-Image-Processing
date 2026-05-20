@@ -1,4 +1,4 @@
-%                      Team (4) - Math3 
+```matlab
 % 2D FFT -- low and high frequency filter
 % WHY: This script separates an image into low-frequency (smooth parts)
 % and high-frequency (edges/details) using Fourier Transform
