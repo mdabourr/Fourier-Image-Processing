@@ -1,4 +1,5 @@
 # 📁 Image Processing Project (Fourier Transform)
+Frequency-domain image processing using Fourier Transform in MATLAB.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-MATLAB-orange">
@@ -6,7 +7,6 @@
   <img src="https://img.shields.io/badge/Type-image%20processing-blue">
   <img src="https://img.shields.io/badge/Topic-Fourier%20Transform-purple">
 </p>
-Frequency-domain image processing using Fourier Transform in MATLAB.
 
 ## 🎯 Overview
 This project demonstrates image processing techniques in the frequency domain using the Fourier Transform in MATLAB.
