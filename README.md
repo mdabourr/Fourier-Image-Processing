@@ -132,11 +132,10 @@ ifft2()
 ---
 
 ## 👤 Author
----
-Mohamed Dabour :
-https://github.com/mdabourr
----
+
 ```
+- Mohamed Dabour :
+https://github.com/mdabourr
 - Developed as a Math III / Image Processing project using MATLAB.
 ```
 ---
