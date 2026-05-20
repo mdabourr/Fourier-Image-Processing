@@ -15,7 +15,7 @@ The project applies FFT-based filtering to analyze image frequencies, visualize 
 
 ---
 
-## Features
+## ✨ Features
 - 2D Fast Fourier Transform (FFT)
 - Frequency spectrum visualization
 - Frequency shift using FFTShift
@@ -26,7 +26,7 @@ The project applies FFT-based filtering to analyze image frequencies, visualize 
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 - MATLAB
 - Image Processing
 - Signal Processing
@@ -110,7 +110,7 @@ ifft2()
 
 ---
 
-## Concepts Demonstrated
+## 🧠 Concepts Demonstrated
 - Fourier Transform
 - Frequency-Domain Processing
 - FFT & IFFT
@@ -121,7 +121,7 @@ ifft2()
 
 ---
 
-## Future Improvements
+## 🚀 Future Improvements
 - Interactive GUI
 - Adjustable filter radius
 - Gaussian filtering
@@ -131,10 +131,7 @@ ifft2()
 
 ---
 
-## Author
+## 👤 Author
 Developed as a Math III / Image Processing project using MATLAB.
 
 ---
-
-## License
-This project is licensed under the MIT License.
