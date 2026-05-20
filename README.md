@@ -3,8 +3,8 @@ Frequency-domain image processing using Fourier Transform in MATLAB.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-MATLAB-orange">
-  <img src="https://img.shields.io/badge/Status-completed-green">
-  <img src="https://img.shields.io/badge/Type-image%20processing-blue">
+  <img src="https://img.shields.io/badge/Status-Completed-green">
+  <img src="https://img.shields.io/badge/Type-Image%20Processing-blue">
   <img src="https://img.shields.io/badge/Topic-Fourier%20Transform-purple">
 </p>
 
