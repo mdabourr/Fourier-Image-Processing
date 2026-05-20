@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/language-MATLAB-orange">
-  <img src="https://img.shields.io/badge/status-completed-green">
-  <img src="https://img.shields.io/badge/type-image%20processing-blue">
-  <img src="https://img.shields.io/badge/topic-Fourier%20Transform-purple">
-</p>
+# 📁 Image Processing Project (Fourier Transform)
+
+![Language](https://img.shields.io/badge/language-MATLAB-orange)
+![Status](https://img.shields.io/badge/status-completed-success)
+![Type](https://img.shields.io/badge/type-signal--processing-blue)
+![Focus](https://img.shields.io/badge/focus-Fourier%20Transform-purple)
 
 # Fourier-Based Image Processing using MATLAB
 Frequency-domain image processing using Fourier Transform in MATLAB.
