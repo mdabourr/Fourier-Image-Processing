@@ -49,14 +49,9 @@ Fourier-Image-Processing/
 │   │
 │   └── results/
 │       ├── overview.png
-│       ├── spectrum.png
 │       ├── lowpass.png
 │       └── highpass.png
 │
-├── docs/
-│   └── report.pdf
-│
-└── LICENSE
 ```
 
 ---
